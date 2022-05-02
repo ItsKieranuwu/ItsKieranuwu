@@ -4,4 +4,4 @@
 
 🛠 Minecraft Server Owner
 
-⚙ Java Plugin Developer
+⚙ Learning Java to Develop Plugins
